@@ -6,6 +6,8 @@ To use, download ToolBox.jsx; then, from within Illustrator, choose File > Scrip
 
 Running the script opens the ToolBox panel. From here, you can open WireCutter and/or ScrewDriver. 
 
+WireCutter.jsx is built-in to ToolBox; though the original WireCutter script is available here as well. However, **WireCutter as a standalone script is depreciated**; please use ToolBox instead. (It includes bug fixes that may not be fixed in standalone WireCutter)
+
 Tools
 ----
 * ToolBox
