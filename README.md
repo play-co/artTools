@@ -21,7 +21,7 @@ Tools
  - A set of tools that automate some common Illustrator needs
  - (currently, there is only 1 tool in the set; more to come)
 
-WireCutter Tools
+WireCutter
 ----------
 * Library Batch Export
  - Exports every Symbol in the Library as a PNG
